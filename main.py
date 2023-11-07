@@ -2,7 +2,7 @@ def main():
     """
     ##################################################
     # Comlete your code here
-    Use the same variables: celsius fahrenheit 
+    Use the same variables: celcius fahrenheit 
     ##################################################
     """
     celcius = int(input())
