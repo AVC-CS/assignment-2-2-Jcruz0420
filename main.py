@@ -6,7 +6,7 @@ def main():
     ##################################################
     """
     celcius = int(input())
-    farenheit = (celcius * 9/5) + 32
+    fahrenheit = (celcius * 9/5) + 32
     print(f'{farenheit:.2f}')
     """
     ########################################
